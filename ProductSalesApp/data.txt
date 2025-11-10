@@ -1,0 +1,23 @@
+=== Product Sales Data ===
+
+Year 1:
+  Microphone   : 300.00
+  Speakers     : 150.00
+  Mixing Desk  : 700.00
+  Year 1 Total : 1150.00
+  Year 1 Average : 383.33
+
+Year 2:
+  Microphone   : 250.00
+  Speakers     : 200.00
+  Mixing Desk  : 600.00
+  Year 2 Total : 1050.00
+  Year 2 Average : 350.00
+
+=== Summary ===
+Overall Total Sales : 2200.00
+Overall Average Sales : 366.67
+Maximum Sale : 700.00
+Minimum Sale : 150.00
+Sales Over Limit (500.00) : 2
+Sales Under Limit (500.00) : 4
